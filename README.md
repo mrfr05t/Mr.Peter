@@ -38,4 +38,9 @@ move_uploaded_file($_FILES["file"]["tmp_name"],
 unlink($del);
 ?>
 ```
+ - Open the project in Visual Studio and the edit below variable in source code 
+```
+Dim server As String = BaseDecode1("your server address here in base64 encoded") 
+```
+
 
