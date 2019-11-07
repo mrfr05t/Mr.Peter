@@ -12,7 +12,7 @@
 
  - Persistent (Using Registry Run Key)
  - Works in background 
- - Less Code Less Bugs
+ - Less Code Less Bugs and Less Detection ;)
  - Deletes the screenshot from disk after upload it to C&C
  - C&C server in base64 
  - Upload screenshots in organized way on C&C
