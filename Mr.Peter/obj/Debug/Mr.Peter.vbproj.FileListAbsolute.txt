@@ -59,3 +59,15 @@ F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\EpicLauncher.Resources.re
 F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.exe
 F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.xml
 F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.pdb
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.vbprojAssemblyReference.cache
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\EpicLauncher.Form1.resources
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\EpicLauncher.Resources.resources
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.cache
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Epic Launcher.exe
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Epic Launcher.xml
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Epic Launcher.pdb
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\bin\Debug\Epic Launcher.exe.config
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\bin\Debug\Epic Launcher.exe
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\bin\Debug\Epic Launcher.pdb
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\bin\Debug\Epic Launcher.xml
+C:\Users\Smurf\Documents\GitHub\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.vbproj.CoreCompileInputs.cache
