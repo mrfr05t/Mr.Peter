@@ -51,3 +51,8 @@ Dim php As String = "yourphpfilename.php?" & "folder="
  
  ## Disclaimer:
 **This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
+
+## License:
+ [**GNU GENERAL PUBLIC LICENSE**](https://github.com/mrfr05t/Mr.Peter/blob/master/LICENSE) 
+ 
+ 
