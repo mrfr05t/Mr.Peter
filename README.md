@@ -1,4 +1,7 @@
-![enter image description here](https://i.ibb.co/1QjrH7x/Screenshot-9.png)
+<p align="center">
+  <img src="https://i.ibb.co/1QjrH7x/Screenshot-9.png">  
+</p>
+
 ## Silent Screenshot Capture | Post Exploitation Tool | VB.NET
 
 A simple payload to take the screenshot of victims desktop and upload it to the C&C.
