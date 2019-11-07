@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/B4WbGyq/Screenshot-11.png">  
 </p>
 <p align="center">
-<b> Silent Screenshot Capture | Post Exploitation Tool | VB.NET </b>
+<b> Silent Screenshot Capture | Post Exploitation Payload | VB.NET </b>
 </p>
 <p align="center">
  A simple payload to take the screenshot of victims desktop and upload it to the C&C.
