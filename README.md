@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/1QjrH7x/Screenshot-9.png">  
+  <img src="https://i.ibb.co/BTyz5jW/Screenshot-10.png">  
 </p>
 <p align="center">
 <b> Silent Screenshot Capture | Post Exploitation Tool | VB.NET </b>
