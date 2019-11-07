@@ -4,8 +4,9 @@
 <p align="center">
 <b> Silent Screenshot Capture | Post Exploitation Tool | VB.NET </b>
 </p>
-
-A simple payload to take the screenshot of victims desktop and upload it to the C&C.
+<p align="center">
+ A simple payload to take the screenshot of victims desktop and upload it to the C&C.
+</p>
 
 ## Features:
 
