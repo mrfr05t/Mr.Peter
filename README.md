@@ -1,5 +1,4 @@
-# ****Mr Peter :D****
-
+![enter image description here](https://i.ibb.co/1QjrH7x/Screenshot-9.png)
 ## Silent Screenshot Capture | Post Exploitation Tool | VB.NET
 
 A simple payload to take the screenshot of victims desktop and upload it to the C&C.
