@@ -1,0 +1,61 @@
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\bin\Debug\Mr.Peter.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\bin\Debug\Mr.Peter.exe
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\bin\Debug\Mr.Peter.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\bin\Debug\Mr.Peter.xml
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.exe
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.xml
+c:\users\acer\documents\visual studio 2012\Projects\Mr.Peter\Mr.Peter\obj\Debug\Mr.Peter.pdb
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.Form1.resources
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.Resources.resources
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+F:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\NordVPN Client.exe.config
+F:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\NordVPN Client.exe
+F:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\NordVPN Client.pdb
+F:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\NordVPN Client.xml
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\NordVPN Client.exe
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\NordVPN Client.xml
+F:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\NordVPN Client.pdb
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.Form1.resources
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.Resources.resources
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+D:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\Chrome.exe.config
+D:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\Chrome.exe
+D:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\Chrome.pdb
+D:\Payload\Screenshoter\Code\Mr.Peter\bin\Debug\Chrome.xml
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Chrome.exe
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Chrome.xml
+D:\Payload\Screenshoter\Code\Mr.Peter\obj\Debug\Chrome.pdb
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Steam Application.exe.config
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Steam Application.exe
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Steam Application.pdb
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Steam Application.xml
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Steam.Form1.resources
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Steam.Resources.resources
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Steam Application.exe
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Steam Application.xml
+D:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Steam Application.pdb
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Mr.Peter.vbproj.GenerateResource.Cache
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\ProtonVPN.exe.config
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\ProtonVPN.exe
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\ProtonVPN.pdb
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\ProtonVPN.xml
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\ProtonVPN.Form1.resources
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\ProtonVPN.Resources.resources
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\ProtonVPN.exe
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\ProtonVPN.xml
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\ProtonVPN.pdb
+X:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Mr.Peter.vbprojResolveAssemblyReference.cache
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Epic Launcher.exe.config
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Epic Launcher.exe
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Epic Launcher.pdb
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\bin\Debug\Epic Launcher.xml
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\EpicLauncher.Form1.resources
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\EpicLauncher.Resources.resources
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.exe
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.xml
+F:\Payload\Screenshoter - Copy\Code\Mr.Peter\obj\Debug\Epic Launcher.pdb
