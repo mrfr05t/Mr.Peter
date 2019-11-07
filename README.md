@@ -50,7 +50,15 @@ Dim php As String = "yourphpfilename.php?" & "folder="
 ```
  - Just compile it and send it to the victim thats all !!
  
+ ## Million Dollar Advice ;):
+ To Avoid Antivirus Detection
  
+ - Change the app icon
+ - Generate new GUID 
+ - Changes all the variables
+ - Obfuscate the code using Using [Obfuscar](https://github.com/obfuscar/obfuscar)
+ - Change the Assembly information 
+
  ## Disclaimer:
 **This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
 
