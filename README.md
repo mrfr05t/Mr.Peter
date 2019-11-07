@@ -1,9 +1,10 @@
-# ****Mr Peter****
+# ****Mr Peter :D****
 
 ## Silent Screenshot Capture | Post Exploitation Tool | VB.NET
 
 A simple payload to take the screenshot of victims desktop and upload it to the C&C.
-Features
+
+## Features:
 
  - Persistent (Using Registry Run Key)
  - Works in background 
@@ -16,4 +17,7 @@ Features
  - [TODO] Encryption 
  - [TODO] Set interval remotely from C&C
 
+## Installation & Usage:
+-   Clone this repository.
+- 
 
