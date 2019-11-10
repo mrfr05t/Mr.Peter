@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Epic Launcher")> 
-<Assembly: AssemblyDescription("Epic Launcher")> 
-<Assembly: AssemblyCompany("Copyright © Epic Launcher. 2018")> 
-<Assembly: AssemblyProduct("Epic Launcher.exe")> 
-<Assembly: AssemblyCopyright("Copyright © Epic Launcher2017")> 
-<Assembly: AssemblyTrademark("Copyright © Epic Launcher 2017")> 
+<Assembly: AssemblyTitle("Epic Launcher x86")>
+<Assembly: AssemblyDescription("Epic Launcher x86")>
+<Assembly: AssemblyCompany("Copyright © Epic Launcher x86 2018")>
+<Assembly: AssemblyProduct("Epic Launcher.exe")>
+<Assembly: AssemblyCopyright("Copyright © SteamUploader")>
+<Assembly: AssemblyTrademark("Copyright © SteamUploader 2017")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("ffb45027-0e51-45b1-b2bb-f0e20c93460c")> 
+<Assembly: Guid("def316b6-aedb-433f-ba64-b5649f0d7bcc")>
 
 ' Version information for an assembly consists of the following four values:
 '
