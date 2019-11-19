@@ -58,7 +58,12 @@ Dim php As String = "yourphpfilename.php?" & "folder="
  - Changes all the variables
  - Obfuscate the code using Using [Obfuscar](https://github.com/obfuscar/obfuscar)
  - Change the Assembly information 
+ 
+ ## Donation:
+ If this tool has been useful for you, feel free to thank me by buying me a coffee :)
 
+[![N|Solid](https://i.ibb.co/Sym2mzn/buymeacoffee.png)](https://www.buymeacoffee.com/mrfrost) 
+ 
  ## Disclaimer:
 **This tool is supposed to be used only on authorized systems. Any unauthorized use of this tool without explicit permission is illegal.**
 
