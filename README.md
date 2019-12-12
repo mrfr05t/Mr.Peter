@@ -56,7 +56,7 @@ Dim php As String = "yourphpfilename.php?" & "folder="
  - Change the app icon
  - Generate new GUID 
  - Changes all the variables
- - Obfuscate the code using Using [Obfuscar](https://github.com/obfuscar/obfuscar)
+ - Obfuscate the code using [Obfuscar](https://github.com/obfuscar/obfuscar)
  - Change the Assembly information 
  
  ## Donation:
